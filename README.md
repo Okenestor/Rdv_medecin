@@ -1,1 +1,1 @@
-# Rdv_medecin
+RDV Médical est une application web développée pour faciliter la prise de rendez-vous médicaux entre patients et médecins. Elle offre une interface utilisateur intuitive pour les patients, les médecins et les administrateurs, avec des fonctionnalités telles que la gestion des rendez-vous, la confirmation ou l’annulation, et une administration des utilisateurs. Ce projet a été réalisé par un groupe dans le cadre d’un développement collaboratif, combinant un backend Spring Boot et un frontend React. Fonctionnalités# Rdv_medecin
